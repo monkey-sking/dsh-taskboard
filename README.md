@@ -6,7 +6,7 @@
 # dsh-taskboard
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/commits/main) [![License](https://img.shields.io/github/license/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/blob/main/LICENSE) [![Language](https://img.shields.io/github/languages/top/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/search?l=) [![npm downloads](https://img.shields.io/npm/dm/dsh-taskboard?style=flat-square)](https://www.npmjs.com/package/dsh-taskboard)
 <!-- badges:end -->
 
 DeepSeek Harness 的**任务看板插件**：人建卡、agent 认领执行、人验收。任务挂项目（workspace）、可指定模型与 preset、支持手动与定时执行，全流程双向协作。
