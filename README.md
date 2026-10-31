@@ -5,6 +5,10 @@
 
 # dsh-taskboard
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/dsh-taskboard?style=flat-square)](https://github.com/monkey-sking/dsh-taskboard/commits/main)
+<!-- badges:end -->
+
 DeepSeek Harness 的**任务看板插件**：人建卡、agent 认领执行、人验收。任务挂项目（workspace）、可指定模型与 preset、支持手动与定时执行，全流程双向协作。
 
 - **闭环协作**：人建卡 → agent 认领执行 → 结构化报告 → 人验收（✓ 完成 / ✗ 退回附原因）
